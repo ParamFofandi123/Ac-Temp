@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 05 Feb 2025 15:11:37 at https://websmirno.site/viktor/plumbio/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://websmirno.site/viktor/plumbio/ -O1 "C:\My Web Sites\acc" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:13:10	Error: 	"Not Found" (404) at link https://websmirno.site/viktor/plumbio/product.html (from https://websmirno.site/viktor/plumbio/services.html)
+15:13:10	Error: 	"Not Found" (404) at link https://websmirno.site/viktor/plumbio/ajax-content/index.html (from https://websmirno.site/viktor/plumbio/ajax-content/header-popup.html)
+15:13:10	Error: 	"Not Found" (404) at link https://websmirno.site/viktor/plumbio/ajax-content/about.html (from https://websmirno.site/viktor/plumbio/ajax-content/header-popup.html)
+15:13:10	Error: 	"Not Found" (404) at link https://websmirno.site/viktor/plumbio/ajax-content/testimonials.html (from https://websmirno.site/viktor/plumbio/ajax-content/header-popup.html)
+15:13:10	Error: 	"Not Found" (404) at link https://websmirno.site/viktor/plumbio/ajax-content/services.html (from https://websmirno.site/viktor/plumbio/ajax-content/header-popup.html)
+15:13:10	Error: 	"Not Found" (404) at link https://websmirno.site/viktor/plumbio/ajax-content/services-item01.html (from https://websmirno.site/viktor/plumbio/ajax-content/header-popup.html)
+15:13:10	Error: 	"Not Found" (404) at link https://websmirno.site/viktor/plumbio/ajax-content/services-item02.html (from https://websmirno.site/viktor/plumbio/ajax-content/header-popup.html)
+15:13:10	Error: 	"Not Found" (404) at link https://websmirno.site/viktor/plumbio/ajax-content/services-item03.html (from https://websmirno.site/viktor/plumbio/ajax-content/header-popup.html)
+15:13:10	Error: 	"Not Found" (404) at link https://websmirno.site/viktor/plumbio/ajax-content/price.html (from https://websmirno.site/viktor/plumbio/ajax-content/header-popup.html)
+15:13:10	Error: 	"Not Found" (404) at link https://websmirno.site/viktor/plumbio/ajax-content/faq.html (from https://websmirno.site/viktor/plumbio/ajax-content/header-popup.html)
+15:13:10	Error: 	"Not Found" (404) at link https://websmirno.site/viktor/plumbio/ajax-content/blog.html (from https://websmirno.site/viktor/plumbio/ajax-content/header-popup.html)
+15:13:10	Error: 	"Not Found" (404) at link https://websmirno.site/viktor/plumbio/ajax-content/single-post.html (from https://websmirno.site/viktor/plumbio/ajax-content/header-popup.html)
+15:13:10	Error: 	"Not Found" (404) at link https://websmirno.site/viktor/plumbio/ajax-content/shop.html (from https://websmirno.site/viktor/plumbio/ajax-content/header-popup.html)
+15:13:10	Error: 	"Not Found" (404) at link https://websmirno.site/viktor/plumbio/ajax-content/shop-item.html (from https://websmirno.site/viktor/plumbio/ajax-content/header-popup.html)
+15:13:10	Error: 	"Not Found" (404) at link https://websmirno.site/viktor/plumbio/ajax-content/contact.html (from https://websmirno.site/viktor/plumbio/ajax-content/header-popup.html)
+15:13:10	Error: 	"Not Found" (404) at link https://websmirno.site/viktor/plumbio/ajax-content/contacts-coverage.html (from https://websmirno.site/viktor/plumbio/ajax-content/header-popup.html)
+15:13:10	Error: 	"Not Found" (404) at link https://websmirno.site/viktor/plumbio/ajax-content/ajax-content/modal__schedule.html (from https://websmirno.site/viktor/plumbio/ajax-content/header-popup.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 34 seconds : 115 links scanned, 97 files written (10210952 bytes overall) [9889487 bytes received at 105207 bytes/sec], 595787 bytes transferred using HTTP compression in 38 files, ratio 37%, 8.2 requests per connection
+(17 errors, 0 warnings, 0 messages)
