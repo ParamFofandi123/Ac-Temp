@@ -4613,7 +4613,7 @@ iframe.wait-autoplay {
   animation: 7s infinite drop;
 }
 .tt-logo__text {
-  font-size: 36px;
+  font-size: 26px;
   line-height: 1;
   color: #fff;
   font-family: Raleway, sans-serif;
@@ -4710,7 +4710,7 @@ iframe.wait-autoplay {
     width: 52px;
   }
   .tt-logo__text {
-    font-size: 27px;
+    font-size: 17px;
   }
   .tt-logo__alignment {
     top: -28px;
